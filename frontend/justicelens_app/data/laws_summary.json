@@ -1,0 +1,14 @@
+[
+  {
+    "id": "domestic_violence",
+    "title": "Domestic Violence Act, 2005",
+    "description": "Protects women from physical, emotional, sexual, and economic abuse within the family.",
+    "keywords": ["abuse", "violence", "harassment"]
+  },
+  {
+    "id": "tenant_rights",
+    "title": "Tenant Rights",
+    "description": "Explains rights related to rent, deposit refund, and eviction.",
+    "keywords": ["rent", "deposit", "landlord"]
+  }
+]

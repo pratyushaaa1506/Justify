@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tslsa",
+    "name": "Telangana State Legal Services Authority",
+    "city": "Hyderabad",
+    "state": "Telangana"
+  },
+  {
+    "id": "dlsa",
+    "name": "District Legal Services Authority",
+    "city": "Hyderabad",
+    "state": "Telangana"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "nalsa",
+    "name": "Free Legal Aid (NALSA)",
+    "description": "Provides free legal help to eligible citizens.",
+    "contact": "https://nalsa.gov.in"
+  },
+  {
+    "id": "women_helpline",
+    "name": "Women Helpline 181",
+    "description": "24x7 support for women facing violence.",
+    "contact": "181"
+  }
+]

@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+fastapi
+uvicorn
+pydantic
+python-multipart
+qdrant-client
+sentence-transformers
+reportlab
+transformers
+torch
+google-generativeai
+pytesseracCT
+pdf2image

@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter
+*.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+.env.*
+
+# Data and generated files
+data/generated/
+generated/
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports
+*.pdf
+
+# Model files
+*.pt
+*.h5
+*.ckpt
+
+# Node
+node_modules/
+
+# Misc
+*.bak
+*.swp
+*.tmp
+
+# Ignore backend/__pycache__
+backend/app/__pycache__/
+backend/app/agents/__pycache__/
+backend/app/routes/__pycache__/
+backend/app/services/__pycache__/

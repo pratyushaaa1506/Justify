@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tenant_1",
+    "topic": "tenant_rights",
+    "text": "A tenant has the right to live peacefully in a rented house."
+  },
+  {
+    "id": "tenant_2",
+    "topic": "tenant_rights",
+    "text": "A landlord cannot evict a tenant without giving proper legal notice."
+  },
+  {
+    "id": "tenant_3",
+    "topic": "tenant_rights",
+    "text": "Rent should not be increased suddenly without agreement."
+  },
+  {
+    "id": "tenant_4",
+    "topic": "tenant_rights",
+    "text": "The landlord must provide basic facilities like water and electricity."
+  },
+  {
+    "id": "tenant_5",
+    "topic": "tenant_rights",
+    "text": "A tenant has the right to privacy."
+  }
+]
